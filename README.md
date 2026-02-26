@@ -37,7 +37,7 @@ An **agentic AI-powered shopping assistant** that autonomously helps users searc
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai_shopping_chatbot.git
+git clone https://github.com/yourusername/ai_shopping_via_chatbot.git
 cd ai_shopping_chatbot
 
 # Create virtual environment
